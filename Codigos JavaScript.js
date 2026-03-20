@@ -7,5 +7,5 @@ Const IDADE = 29
 
 VAR Mensagem= "Ólá, mundo"
 'console.log(Óla, mundo)'.
-  'console'.log(Sejam Bem-Vindos)
-'console'.log(Esta página é dedicada a todos)
+  'console'.log(Sejam Bem-Vindos)'.
+'console'.log(Esta página é dedicada a todos)'.
